@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="675.866" height="675.866" viewBox="0 0 675.866 675.866">
+  <g id="Group_2085" data-name="Group 2085" transform="translate(-621.734 -2581.734)">
+    <g id="Group_1853" data-name="Group 1853" transform="translate(864.57 2680) rotate(23)">
+      <path id="Path_1970" data-name="Path 1970" d="M198.619,0,60.764,28.608,0,120.867,5.392,253.016l78.337,79.567,119.5,34.855,113.129-82.662,46.1-106.462L312.714,51.268ZM305.183,54.083l-47.049,77.434L198.818,6.285ZM63,131.415l192.513,7.415L144.609,297.42Zm74.977,165.372L17,247.682l41.9-111.715ZM258.433,144.532l47.146,133.1-155.4,21.69Zm-5.841-11.461L70.415,126.052l124.7-114.311ZM65.5,33.373,191.736,7.193,60.547,127.432Zm-6.083,7.55-4.456,84.685L7.613,119.573ZM5.851,125.048l48.778,6.184L10.872,247.894ZM12.141,251.8l124.618,50.588L85.843,326.636Zm80.953,77.627,49.366-23.505,21.758,44.254Zm109.059,31.8-30.554-8.9-23.129-47.078,161.056-22.472Zm110.208-81.493L263.043,140.578l92.269,40.006ZM263.009,134.4l46.306-76.227,45.427,116.006Z" transform="translate(0 0)" fill="#EFD050"/>
+    </g>
+    <g id="Group_2084" data-name="Group 2084" transform="translate(78.734 78.734)">
+      <g id="Ellipse_55" data-name="Ellipse 55" transform="translate(653.301 2613.301)" fill="none" stroke="#EFD050" stroke-width="1" opacity="0.5">
+        <circle cx="227.935" cy="227.935" r="227.935" stroke="none"/>
+        <circle cx="227.935" cy="227.935" r="227.435" fill="none"/>
+      </g>
+      <g id="Ellipse_56" data-name="Ellipse 56" transform="translate(598.962 2558.962)" fill="none" stroke="#EFD050" stroke-width="1" opacity="0.3">
+        <circle cx="282.367" cy="282.367" r="282.367" stroke="none"/>
+        <circle cx="282.367" cy="282.367" r="281.867" fill="none"/>
+      </g>
+      <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(543 2503)" fill="none" stroke="#EFD050" stroke-width="1" opacity="0.1">
+        <circle cx="337.933" cy="337.933" r="337.933" stroke="none"/>
+        <circle cx="337.933" cy="337.933" r="337.433" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
