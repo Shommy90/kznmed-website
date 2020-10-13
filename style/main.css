@@ -625,8 +625,8 @@ header {
 
 button.navbar-toggler {
   position: absolute;
-  right: 20px;
-  top: 15px;
+  right: 0px;
+  top: 5px;
   padding: 0 !important;
   outline: none;
   width: 40px;
@@ -787,8 +787,8 @@ ul.navbar-nav {
 }
 
 .hero_dev--holder {
-  position: relative;
-  margin-bottom: 40px;
+  position: absolute;
+  bottom: 50px;
 }
 
 .hero__dev {
@@ -1651,15 +1651,15 @@ footer .container {
   body {
     font-size: 14px;
   }
-  .hero {
-    height: 100vh;
-  }
   .hero__headline-title h1 {
     font-size: 40px;
     line-height: 50px;
   }
   .hero__inner-bg {
-    padding: 150px 0 0;
+    padding: 75px 0 0;
+  }
+  .hero__radar {
+    display: none;
   }
   .pulsing {
     padding: 40px 0;
@@ -1686,6 +1686,9 @@ footer .container {
     line-height: 32px;
   }
   .pulsing__content__arrows-holder {
+    display: none;
+  }
+  .pulsing__radar {
     display: none;
   }
   .pulsing__radar--img {
@@ -1769,6 +1772,9 @@ footer .container {
   .main-areas ul li {
     width: 50%;
     margin-bottom: 20px;
+  }
+  .hero_dev--holder {
+    display: none;
   }
 }
 
